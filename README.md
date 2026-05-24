@@ -3,5 +3,7 @@
 ## About
 > Noob hacker
 
++ Email: `haehet.security@gmail.com` <br>
 + Discord: `haehet_` <br>
 + [Blog](https://haehet.github.io)
+
